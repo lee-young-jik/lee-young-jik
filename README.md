@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-
+<div align=center>
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
