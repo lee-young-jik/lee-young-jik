@@ -5,7 +5,7 @@
 
 
 </div>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aglyj0225)](https://solved.ac/aglyj0225)
+
 <!--
 **lee-young-jik/lee-young-jik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 
 
 
-<!--
 <div align=center>
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aglyj0225)](https://solved.ac/aglyj0225)
 </div>
--->
+
 
