@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JIK_GitHub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=JIK_GitHub&fontSize=90" />
 <div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-young-jik&show_icons=true&theme=radical)
@@ -8,11 +8,6 @@
 <div>
 	<div>
 		<img src="https://img.shields.io/badge/apachehadoop-blue?style=for-the-badge&logo=apachehadoop&logoColor=white">
-	</div>
-	<div>
-		<img src="https://img.shields.io/badge/mysql-#4479A1?style=for-the-badge&logo=mysql&logoColor=white">
- 		 
-  
 	</div>
  
 </div>
