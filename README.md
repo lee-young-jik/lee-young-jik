@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=JIK_GitHub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#F44B21&height=200&section=header&text=JIK_GitHub&fontSize=90" />
 <div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-young-jik&show_icons=true&theme=radical)
