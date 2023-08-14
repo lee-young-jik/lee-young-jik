@@ -13,9 +13,9 @@
 </div>
 <div>
 // 내 코드_Light
-<img src="https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=lee-young-jik&margin-w=15&row=2&column=4">
 // DarkMode 코드
-<img src="https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15&row=2&column=4&no-frame=true&theme=onedark">
+<img src="https://github-profile-trophy.vercel.app/?username=lee-young-jik&margin-w=15&row=2&column=4&no-frame=true&theme=onedark">
 
 // 변형할 코드
 // margin, light/dark 모드, 테두리 등
