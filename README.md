@@ -24,9 +24,5 @@
 
 <div align=center>
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aglyj0225)](https://solved.ac/aglyj0225)
-</div>
 
 
