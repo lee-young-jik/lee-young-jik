@@ -16,8 +16,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=lee-young-jik&margin-w=15&row=2&column=4">
 
 
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username='user ID')](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username='user ID')](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
