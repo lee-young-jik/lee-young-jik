@@ -12,7 +12,7 @@
  
 </div>
 <div>
-// 내 코드_Light
+<!-- // 내 코드_Light -->
 <img src="https://github-profile-trophy.vercel.app/?username=lee-young-jik&margin-w=15&row=2&column=4">
 
 
